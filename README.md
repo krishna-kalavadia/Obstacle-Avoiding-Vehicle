@@ -1,6 +1,7 @@
 ## Obstacle Avoiding Vehicle
 Simple obstacle avoiding vehicle using Arduino. <br>
-#####Components: 
+
+##### Components: 
 - Arduino Uno x 1
 - Arduino Prototype Expansion Board x 1
 - HC-SR04 Ultrasonic sensor x 1
